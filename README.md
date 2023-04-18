@@ -22,10 +22,10 @@ I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
-<b>WordPress:</b> ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Yoast SEO, WP Rocket, WPvivid, Hooks Woo and other.
-Local web servers: Laragon, Local WP.
-SEO: On-page SEO, Ahrefs, Serpstat, Keys.so, Screaming Frog, Google Search Console, Google Analytics, Google Tag Manager and other.
-Project management/planning: Notion, Nimbus, Trello, Perfex CRM, Todoist.
+<u>WordPress:</u> ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Yoast SEO, WP Rocket, WPvivid, Hooks Woo and other.<br>
+Local web servers: Laragon, Local WP.<br>
+SEO: On-page SEO, Ahrefs, Serpstat, Keys.so, Screaming Frog, Google Search Console, Google Analytics, Google Tag Manager and other.<br>
+Project management/planning: Notion, Nimbus, Trello, Perfex CRM, Todoist.<br>
 Soft: Content Downloader, ZennoPoster
 
 ---
