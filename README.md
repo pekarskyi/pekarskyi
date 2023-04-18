@@ -4,6 +4,8 @@
 
 I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine.
 
+---
+
 ### My stack of languages and tools:
 
 <div>
@@ -20,6 +22,8 @@ I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine
  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
   
 </div>
+
+---
 
 ### Follow Me:
 
