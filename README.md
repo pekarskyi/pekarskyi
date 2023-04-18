@@ -1,8 +1,8 @@
-### Привіт,
+### Hi, 👋
 
-Мене звати Микола Пекарський. Я веб-розробник сайтів для малого та середнього бізнесу, популяризатор WordPress та автор Youtube-каналу.
+### About Me:
 
-Hello, my name is Mykola Pekarskyi. I'm a web developer of websites for small and medium-sized businesses, a WordPress promoter, and a author of a YouTube channel.👋
+WordPress Developer, SEO-specialist. YouTube channel author.
 
 <div id="badges">
   
