@@ -28,4 +28,6 @@ Hello, my name is Mykola Pekarskyi. I'm a web developer of websites for small an
  
 </div>
 
+<br><br>
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://sitex.me/standwithukraine)
