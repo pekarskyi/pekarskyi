@@ -53,7 +53,7 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 ---
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Themer – потужні хаки для поліпшення розробки сайтів за допомогою Bricks](https://inwebpress.com/uk/advanced-themer-bricks-ua/)
 - [Core Framework – CSS-фреймворк для проектування та розробки веб-сайтів на WordPress](https://inwebpress.com/uk/core-framework-css-ua/)
