@@ -37,6 +37,13 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 ---
 
+### I'm learning:
+
+:man_student: HTML/CSS/PHP, Development on WordPress, Gutenberg, Gutenberg Blocks development, Bricks, Linux, Git.
+:eyes: Resources: Youtube, Udemy, Prometheus.
+
+---
+
 ### My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekarskyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
