@@ -55,6 +55,11 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Themer – потужні хаки для поліпшення розробки сайтів за допомогою Bricks](https://inwebpress.com/uk/advanced-themer-bricks-ua/)
+- [Core Framework – CSS-фреймворк для проектування та розробки веб-сайтів на WordPress](https://inwebpress.com/uk/core-framework-css-ua/)
+- [ACF 6.1 – реєстрація довільних типів записів та таксономій, покращений вибір типу поля](https://inwebpress.com/uk/acf-6-1/)
+- [Filter Everything – універсальний фільтр для WordPress, WooCommerce](https://inwebpress.com/uk/filter-everything/)
+- [Конструктор Bricks наступає на п’яти Elementor. Огляд Bricks 2023](https://inwebpress.com/uk/bricks-builder-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
