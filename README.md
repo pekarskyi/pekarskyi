@@ -53,6 +53,12 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 ---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### Follow Me:
 
 <div id="badges">
