@@ -25,13 +25,13 @@ I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine
 <br>
 
 
-:point_right: **WordPress:** ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Polylang, Yoast SEO, WP Rocket, WPvivid, Qubely, Kadence Blocks, WP All Migration, Duplicator.
-:point_right: **Popular WP themes**: WoodMart, Kadence, Blocksy, Hello.
+:point_right: **WordPress:** ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Polylang, Yoast SEO, WP Rocket, WPvivid, Qubely, Kadence Blocks, WP All Migration, Duplicator.<br>
+:point_right: **Popular WP themes**: WoodMart, Kadence, Blocksy, Hello.<br>
 :point_right: **Local web servers**: Laragon, Local WP.<br>
 :point_right: **SEO**: On-page SEO, Ahrefs, Serpstat, Keys.so, Screaming Frog, Google Search Console, Google Analytics, Google Tag Manager and other.<br>
 :point_right: **Project management/planning**: Notion, Nimbus, Trello, Perfex CRM, Todoist.<br>
-:point_right: **Soft**: Content Downloader (parsing), ZennoPoster (process automation).
-:point_right: **FTP-clients**: WinSCP, FileZilla.
+:point_right: **Soft**: Content Downloader (parsing), ZennoPoster (process automation).<br>
+:point_right: **FTP-clients**: WinSCP, FileZilla.<br>
 
 ---
 
