@@ -11,7 +11,7 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 ### My stack of languages and tools:
 
 <div>
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="Vscode"  alt="Vscode" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
