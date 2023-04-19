@@ -39,7 +39,7 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 ### I'm learning:
 
-:man_student: HTML/CSS/PHP, Development on WordPress, Gutenberg, Gutenberg Blocks development, Bricks, Linux, Git.
+:man_student: HTML/CSS/PHP, Development on WordPress, Gutenberg, Gutenberg Blocks development, Bricks, Linux, Git.<br>
 :eyes: Resources: Youtube, Udemy, Prometheus.
 
 ---
