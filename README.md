@@ -2,7 +2,7 @@
 
 ### About Me:
 
-I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
+I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine &nbsp;&nbsp; [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
 
 ---
 
