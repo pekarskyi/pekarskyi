@@ -33,6 +33,8 @@ I am WordPress Developer, SEO-specialist and YouTube channel author from Ukraine
 :point_right: **Soft**: Content Downloader (parsing), ZennoPoster (process automation).<br>
 :point_right: **FTP-clients**: WinSCP, FileZilla.<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekarskyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Follow Me:
