@@ -27,13 +27,15 @@ I am WordPress Developer, translator of WordPress themes and plugins (ukrainian 
 
 <br>
 
-:point_right: **WordPress:** ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Polylang, Yoast SEO, WP Rocket, WPvivid, Qubely, Kadence Blocks, WP All Migration, Duplicator.<br>
+:hammer_and_wrench: **WordPress:** ACF, Gutenberg, Elementor and Crocoblock, Bricks, WP All Import, Tutor LMS, WPML, Polylang, Yoast SEO, WP Rocket, WPvivid, Qubely, Kadence Blocks, WP All Migration, Duplicator.<br>
 :point_right: **Popular WP themes**: WoodMart, Kadence, Blocksy, Hello.<br>
 :point_right: **Local web servers**: Laragon, Local WP.<br>
 :point_right: **SEO**: On-page SEO, Ahrefs, Serpstat, Keys.so, Screaming Frog, Google Search Console, Google Analytics, Google Tag Manager and other.<br>
-:point_right: **Project management/planning**: Notion, Nimbus, Trello, Perfex CRM, Todoist.<br>
+:date: **Project management/planning**: Notion, Nimbus, Trello, Perfex CRM, Todoist.<br>
 :point_right: **Soft**: Content Downloader (parsing), ZennoPoster (process automation).<br>
 :point_right: **FTP-clients**: WinSCP, FileZilla.<br>
+
+:hankey: Elementor PRO
 
 ---
 
