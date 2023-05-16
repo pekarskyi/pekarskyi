@@ -54,11 +54,11 @@ Need a website? - Write to me and we will discuss everything. My contacts are un
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Не будьте як Ferrari. Оновлюйте плагіни WordPress до останніх версій!](https://inwebpress.com/uk/ne-budte-yak-ferrari-onovlyujte-plaginy-wordpress-do-ostannih-versij/)
 - [IP Customize Woo 1.0 – підвищуємо конверсію сторінки оформлення](https://inwebpress.com/uk/ip-woo/)
 - [Вийшла новая версія WoodMart 7.2. Що нового?](https://inwebpress.com/uk/woodmart-7-2/)
 - [Advanced Themer – потужні хаки для поліпшення розробки сайтів за допомогою Bricks](https://inwebpress.com/uk/advanced-themer-bricks-ua/)
 - [Core Framework – CSS-фреймворк для проектування та розробки веб-сайтів на WordPress](https://inwebpress.com/uk/core-framework-css-ua/)
-- [ACF 6.1 – реєстрація довільних типів записів та таксономій, покращений вибір типу поля](https://inwebpress.com/uk/acf-6-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
