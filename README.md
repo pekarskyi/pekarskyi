@@ -54,11 +54,11 @@ Need a website? - Write to me and we will discuss everything. My contacts are un
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Зло не потойбічне чи якесь містичне](https://inwebpress.com/uk/zlo-ne-potojbichne-chy-yakes-mistychne/)
 - [За цей тиждень я вилікував два сайти WordPress від шкідливих редиректів та виявив приховані бекдори](https://inwebpress.com/uk/za-tsej-tyzhden-ya-vylikuvav-dva-sajty-wordpress-vid-shkidlyvyh-redyrektiv-ta-vyyavyv-pryhovani-bekdory/)
 - [Не будьте як Ferrari. Вчасно оновлюйте плагіни WordPress](https://inwebpress.com/uk/ne-budte-yak-ferrari-onovlyujte-plaginy-wordpress-do-ostannih-versij/)
 - [IP Customize Woo 1.0 – підвищуємо конверсію сторінки оформлення](https://inwebpress.com/uk/ip-woo/)
 - [Вийшла новая версія WoodMart 7.2. Що нового?](https://inwebpress.com/uk/woodmart-7-2/)
-- [Advanced Themer – потужні хаки для поліпшення розробки сайтів за допомогою Bricks](https://inwebpress.com/uk/advanced-themer-bricks-ua/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
