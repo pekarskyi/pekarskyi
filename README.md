@@ -7,7 +7,7 @@
 I am WordPress Developer, translator of WordPress themes and plugins (ukrainian and russian), SEO-specialist and YouTube channel author from Ukraine.<br>
 Need a website? - Write to me and we will discuss everything. My contacts are under my photo.
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://justgo.ink/zachest)
 
 ---
 
