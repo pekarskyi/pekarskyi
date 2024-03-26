@@ -1,16 +1,5 @@
 ### Hi, 👋
 
-### About Me:
-
-Я веб-розробник сайтів на WordPress, перекладач тем і плагінів WordPress (українською та російською мовами), SEO-спеціаліст і автор YouTube-каналу з України.<br>
-Потрібен сайт? - Напишіть мені і ми все обговоримо. Мої контакти під моїм фото.<br><br>
-I am WordPress Developer, translator of WordPress themes and plugins (ukrainian and russian), SEO-specialist and YouTube channel author from Ukraine.<br>
-Need a website? - Write to me and we will discuss everything. My contacts are under my photo.
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://justgo.ink/zachest)
-
----
-
 ### My stack of languages and tools:
 
 <div>
