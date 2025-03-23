@@ -2,7 +2,7 @@
 
 ### Hi, 👋
 
-@woo-attribute-converter
+[Woo Atribute Converter](https://github.com/pekarskyi/woo-attribute-converter) - a free WordPress plugin that converts local (individual) attributes to global attributes.
 
 👨Subscribe to my YouTube channel!
 
