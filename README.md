@@ -1,57 +1,33 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-## Mykola Pekarskyi | WordPress Developer
+## Mykola Pekarskyi - WordPress Developer
 
-## 👨‍💻 About Me
+## About Me
+11+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
 
-Experienced WordPress developer with over 10 years of creating effective web solutions for businesses. I work both independently and in teams, depending on project complexity. Based in Ukraine, fluent in Ukrainian.
+## Skills:
 
-## 🛠️ Technical Skills
+- Development: HTML5, CSS3, JavaScript, BEM methodology
+- WordPress: Custom themes/plugins, WooCommerce, Gutenberg blocks, Elementor, ACF
+- Integrations: Payment systems, delivery services, multilingual sites, data import/export
+- SEO: Technical optimization, analytics tools, semantic core, Google services setup
 
-Web Development:
-- HTML5, CSS3, JavaScript and PHP
-- BEM methodology & semantic markup
-- Responsive and cross-browser development
-- Page loading speed optimization
+## Principles:
 
-WordPress Ecosystem:
-- Custom theme and plugin development
-- WooCommerce integration and configuration
-- Working with WP and WooCommerce hooks
-- Creating custom Gutenberg blocks
-- Experience with Elementor, ACF, Crocoblock
+- Performance-focused development
+- Security-conscious implementation
+- User-centered design
+- Balanced functionality
 
-Integrations:
-- Payment systems (LiqPay, Fondy, Wayforpay, Mono)
-- Delivery services (Nova Poshta, Ukrposhta)
-- Multilingual sites (WPML, Polylang)
-- Data import/export (WP All Import)
-- Integration with Telegram and other services
+## Services:
 
-SEO and Analytics
-- Technical SEO optimization
-- Experience with Ahrefs, Serpstat, Keys.so, Screaming Frog
-- Google Search Console, Analytics, Tag Manager setup
-- Semantic core and keyword clustering
-- Contextual advertising (Google Ads)
+- Custom WordPress development
+- Technical maintenance
+- Consultations and training
+- Website security and optimization
 
-## 🚀 Work Principles
-
-- Rational use of plugins
-- Balance between design and functionality
-- Focus on usability and logical site structure
-- Security and protection from malicious scripts
-
-## 🤝 Additional Services
-
-- Technical support and website maintenance
-- WordPress consultations
-- Localization of themes and plugins (contribution to WP community)
-- Website hosting and maintenance on VPS
-- Problem diagnosis and resolution
-
-## 📫 Contact Me
-[Add links to your social media profiles, email, or website]
+## Contact
+[Contact information](https://inwebpress.com/contacts/)
 
 💡 Open to interesting projects and collaborations. Let's create something impressive together!
 
