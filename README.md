@@ -33,7 +33,7 @@
 
 ## My plugins WordPress:
 
-[Woo Atribute Converter](https://github.com/pekarskyi/woo-attribute-converter) - a free WordPress plugin that converts local (individual) attributes to global attributes.
+[IP Woo Attributes Converter](https://github.com/pekarskyi/woo-attribute-converter) - a free WordPress plugin that converts local (individual) attributes to global attributes.
 
 [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/language-quick-switcher-for-wordpress) - the plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings.
 
