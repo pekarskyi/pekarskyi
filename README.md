@@ -33,6 +33,8 @@
 
 ## My plugins WordPress:
 
+[Делівері для WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - плагін інтеграції служби доставки "Делівері" з WooCommerce для інтернет-магазинів в Україні.
+
 [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a free WordPress plugin that converts local (individual) attributes to global attributes.
 
 [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - the plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings.
