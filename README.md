@@ -3,7 +3,7 @@
 ## Mykola Pekarskyi - WordPress Developer
 
 ## About Me
-11+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
+10+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
 
 ## Skills:
 
