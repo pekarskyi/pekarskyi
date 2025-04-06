@@ -36,15 +36,13 @@
 
 Open to interesting projects and collaborations. Let's create something impressive together!
 
-## :file_folder: My plugins WordPress:
-
- ### :gem: Main plugin:
+ ## :gem: My main plugin WordPress:
 
  | Title |  Description |
 |----------------|----------------|
 | [IP Installer](https://github.com/pekarskyi/ip-installer) | Is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories. |
 
-### :shopping_cart: For WooCommerce:
+## :shopping_cart: Plugins for WooCommerce:
 
 | Title |  Description |
 |----------------|----------------|
@@ -53,14 +51,14 @@ Open to interesting projects and collaborations. Let's create something impressi
 | [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) | A simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.|
 | [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) | A plugin for WooCommerce that adds quick order functionality for products. [About plugin](https://inwebpress.com/ip-quick-order/) |
 
-### :zap: For Developers / Admins:
+## :zap: Plugins WordPress for Developers / Admins:
 
 | Title |  Description |
 |----------------|----------------|
 | [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) | The plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings. |
 | [IP Search Log](https://github.com/pekarskyi/ip-search-log) | WordPress Plugin for logging user search queries. |
 
-### :shield: For Security / SEO:
+## :shield: Plugins WordPress for Security / SEO:
 
 | Title |  Description |
 |----------------|----------------|
