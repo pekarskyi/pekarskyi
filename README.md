@@ -27,7 +27,10 @@
 - Website security and optimization
 
 ##  :link: Contact:
-[Contact information](https://inwebpress.com/contacts/)
+- [My site](https://inwebpress.com/contacts/)
+- [My Linkedin](https://www.linkedin.com/in/mykola-pekarskyi/)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZEeT6WrGupgza9KXpazyA)](https://www.youtube.com/@inwebpress/videos)
 
 Open to interesting projects and collaborations. Let's create something impressive together!
 
@@ -59,8 +62,3 @@ Open to interesting projects and collaborations. Let's create something impressi
 - [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - this script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.
 
 - [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - a powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format.
-
-## Subscribe to my YouTube channel!
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZEeT6WrGupgza9KXpazyA)](https://www.youtube.com/@inwebpress/videos)
-
