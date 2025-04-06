@@ -54,16 +54,28 @@ Open to interesting projects and collaborations. Let's create something impressi
 
 ### :zap: For Developers / Admins:
 
-- :globe_with_meridians: [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - the plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings.
+| Title |  Description |
+|----------------|----------------|
+| [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) | The plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings. |
+| [IP Search Log](https://github.com/pekarskyi/ip-search-log) | WordPress Plugin for logging user search queries. |
 
-- :mag: [IP Search Log](https://github.com/pekarskyi/ip-search-log) - WordPress Plugin for logging user search queries.
+### :shield: For Security / SEO:
 
-### :dart: For Security / SEO:
+| Title |  Description |
+|----------------|----------------|
+| [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) | WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage. |
 
-- :shield: [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) - WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage.
+| Title |  Description |
+|----------------|----------------|
+| текст | текст |
+| текст | текст |
+| текст | текст |
+| текст | текст |
+| текст | текст |
 
 ## :file_folder: My Scripts PHP:
 
-- :link: [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - this script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.
-
-- :lady_beetle: [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - a powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format.
+| Title | Description |
+|----------------|---------|
+|[IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer)|This script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.|
+|[IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) | A powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format |
