@@ -40,17 +40,19 @@ Open to interesting projects and collaborations. Let's create something impressi
 
  ### :gem: Main plugin:
 
-- :raising_hand_man: [IP Installer](https://github.com/pekarskyi/ip-installer) - is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories.
+ | Title |  Description |
+|----------------|----------------|
+| [IP Installer](https://github.com/pekarskyi/ip-installer) | Is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories. |
 
 ### :shopping_cart: For WooCommerce:
 
-- :truck: [Delivery for WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - a plugin for integrating the "Delivery" shipping service with WooCommerce for online stores in Ukraine.
-
-- :toolbox: [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a WordPress plugin that converts local (individual) attributes to global attributes.
-
-- :wastebasket: [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - a simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.
-
-- :lock: [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) - a plugin for WooCommerce that adds quick order functionality for products. [About plugin](https://inwebpress.com/ip-quick-order/)
+| Title |  Description |
+|----------------|----------------|
+|[Delivery for WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) | A plugin for integrating the "Delivery" shipping service with WooCommerce for online stores in Ukraine. |
+|[IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) | A WordPress plugin that converts local (individual) attributes to global attributes. |
+| [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) | A simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.|
+| [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) | A plugin for WooCommerce that adds quick order functionality for products. [About plugin](https://inwebpress.com/ip-quick-order/) |
+| текст | текст |
 
 ### :zap: For Developers / Admins:
 
@@ -64,14 +66,6 @@ Open to interesting projects and collaborations. Let's create something impressi
 | Title |  Description |
 |----------------|----------------|
 | [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) | WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage. |
-
-| Title |  Description |
-|----------------|----------------|
-| текст | текст |
-| текст | текст |
-| текст | текст |
-| текст | текст |
-| текст | текст |
 
 ## :file_folder: My Scripts PHP:
 
