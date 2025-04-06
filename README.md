@@ -37,15 +37,18 @@ Open to interesting projects and collaborations. Let's create something impressi
 ## :file_folder: My plugins WordPress:
 
  ### Main plugin:
+
 - [IP Installer](https://github.com/pekarskyi/ip-installer) - is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories.
 
 ### For WooCommerce:
 
-- [Делівері для WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - плагін інтеграції служби доставки "Делівері" з WooCommerce для інтернет-магазинів в Україні.
+- [Delivery for WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - a plugin for integrating the "Delivery" shipping service with WooCommerce for online stores in Ukraine.
 
-- [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a free WordPress plugin that converts local (individual) attributes to global attributes.
+- [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a WordPress plugin that converts local (individual) attributes to global attributes.
 
-- [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - a simple free WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.
+- [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - a simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.
+
+- :lock: [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) - a plugin for WooCommerce that adds quick order functionality for products. [About plugin](https://inwebpress.com/ip-quick-order/)
 
 ### For Developers / Admins:
 
