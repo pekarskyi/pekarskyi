@@ -2,7 +2,7 @@
 
 ## Микола Пекарський - WordPress розробник
 
-[Повернутися на головну](https://github.com/pekarskyi)
+:arrow_backward: [Повернутися на головну](https://github.com/pekarskyi)
 
 ## :wave: Про мене
 WordPress розробник з 10+ років досвіду, створюю бізнес-рішення. Працюю як соло, так і в командах. Базуюся в Україні.
@@ -38,31 +38,31 @@ WordPress розробник з 10+ років досвіду, створюю б
 
 ## :file_folder: Мої плагіни WordPress:
 
-### Основний плагін:
-- [IP Installer](https://github.com/pekarskyi/ip-installer) - це плагін WordPress, який спрощує встановлення та оновлення моїх плагінів і скриптів безпосередньо з репозиторіїв GitHub.
+### :gem: Основний плагін:
+- :raising_hand_man: [IP Installer](https://github.com/pekarskyi/ip-installer) - це плагін WordPress, який спрощує встановлення та оновлення моїх плагінів і скриптів безпосередньо з репозиторіїв GitHub.
 
-### Для WooCommerce:
+### :shopping_cart: Для WooCommerce:
 
-- [Делівері для WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - плагін інтеграції служби доставки "Делівері" з WooCommerce для інтернет-магазинів в Україні.
+- :truck: [Делівері для WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - плагін інтеграції служби доставки "Делівері" з WooCommerce для інтернет-магазинів в Україні.
 
-- [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - плагін WordPress, який перетворює локальні (індивідуальні) атрибути на глобальні атрибути WooCommerce.
+- :toolbox: [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - плагін WordPress, який перетворює локальні (індивідуальні) атрибути на глобальні атрибути WooCommerce.
 
-- [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - простий плагін WordPress для очищення бази даних від товарів, категорій товарів, атрибутів, тегів, купонів, замовлень та їхніх приміток.
+- :wastebasket: [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - простий плагін WordPress для очищення бази даних від товарів, категорій товарів, атрибутів, тегів, купонів, замовлень та їхніх приміток.
 
 - :lock: [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) - плагін для WooCommerce, який додає функціонал швидкого замовлення товарів. [Про плагін](https://inwebpress.com/ip-quick-order/)
 
-### Для розробників / адміністраторів:
+### :zap: Для розробників / адміністраторів:
 
-- [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - плагін, який дозволяє швидко перемикатися між різними мовами без необхідності заходити в загальні налаштування WP та налаштування профілю.
+- :globe_with_meridians: [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - плагін, який дозволяє швидко перемикатися між різними мовами без необхідності заходити в загальні налаштування WP та налаштування профілю.
 
-- [IP Search Log](https://github.com/pekarskyi/ip-search-log) - плагін WordPress для логування пошукових запитів користувачів.
+- :mag: [IP Search Log](https://github.com/pekarskyi/ip-search-log) - плагін WordPress для логування пошукових запитів користувачів.
 
-### Для безпеки / SEO:
+### :dart: Для безпеки / SEO:
 
-- [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) - плагін WordPress для моніторингу, логування та повідомлення про підозрілі GET-запити на вашому веб-сайті. Він діє як додатковий рівень безпеки, допомагаючи виявляти потенційні загрози на ранньому етапі.
+- :shield: [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) - плагін WordPress для моніторингу, логування та повідомлення про підозрілі GET-запити на вашому веб-сайті. Він діє як додатковий рівень безпеки, допомагаючи виявляти потенційні загрози на ранньому етапі.
 
 ## :file_folder: Мої PHP скрипти:
 
-- [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - цей скрипт замінює URL-адреси в базі даних WordPress. Він може бути завантажений до кореневого каталогу вашої WordPress інсталяції.
+- :link: [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - цей скрипт замінює URL-адреси в базі даних WordPress. Він може бути завантажений до кореневого каталогу вашої WordPress інсталяції.
 
-- [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - інструмент для відлагодження WordPress, який відображає PHP помилки з debug.log у структурованому та зручному для користувача форматі.
+- :lady_beetle: [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - інструмент для відлагодження WordPress, який відображає PHP помилки з debug.log у структурованому та зручному для користувача форматі.

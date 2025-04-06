@@ -38,32 +38,32 @@ Open to interesting projects and collaborations. Let's create something impressi
 
 ## :file_folder: My plugins WordPress:
 
- ### Main plugin:
+ ### :gem: Main plugin:
 
-- [IP Installer](https://github.com/pekarskyi/ip-installer) - is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories.
+- :raising_hand_man: [IP Installer](https://github.com/pekarskyi/ip-installer) - is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories.
 
-### For WooCommerce:
+### :shopping_cart: For WooCommerce:
 
-- [Delivery for WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - a plugin for integrating the "Delivery" shipping service with WooCommerce for online stores in Ukraine.
+- :truck: [Delivery for WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) - a plugin for integrating the "Delivery" shipping service with WooCommerce for online stores in Ukraine.
 
-- [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a WordPress plugin that converts local (individual) attributes to global attributes.
+- :toolbox: [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) - a WordPress plugin that converts local (individual) attributes to global attributes.
 
-- [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - a simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.
+- :wastebasket: [IP Woo Cleaner](https://github.com/pekarskyi/ip-woo-cleaner) - a simple WordPress plugin for cleaning the database of products, product categories, attributes, tags, coupons, orders, and their notes.
 
 - :lock: [IP Quick Order for WooCommerce](https://github.com/pekarskyi/ip-quick-order) - a plugin for WooCommerce that adds quick order functionality for products. [About plugin](https://inwebpress.com/ip-quick-order/)
 
-### For Developers / Admins:
+### :zap: For Developers / Admins:
 
-- [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - the plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings.
+- :globe_with_meridians: [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) - the plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings.
 
-- [IP Search Log](https://github.com/pekarskyi/ip-search-log) - WordPress Plugin for logging user search queries.
+- :mag: [IP Search Log](https://github.com/pekarskyi/ip-search-log) - WordPress Plugin for logging user search queries.
 
-### For Security / SEO:
+### :dart: For Security / SEO:
 
-- [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) - WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage.
+- :shield: [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) - WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage.
 
 ## :file_folder: My Scripts PHP:
 
-- [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - this script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.
+- :link: [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) - this script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.
 
-- [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - a powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format.
+- :lady_beetle: [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) - a powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format.
