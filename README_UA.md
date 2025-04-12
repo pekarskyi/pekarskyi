@@ -38,13 +38,13 @@ WordPress розробник з 10+ років досвіду, створюю б
 
 ## :gem: Мій основний плагін WordPress:
 
-| Title |  Description |
+| Назва |  Опис |
 |----------------|----------------|
 | [IP Installer](https://github.com/pekarskyi/ip-installer) | Це плагін WordPress, який спрощує встановлення та оновлення моїх плагінів і скриптів безпосередньо з репозиторіїв GitHub. |
 
 ## :shopping_cart: Плагіни для WooCommerce:
 
-| Title |  Description |
+| Назва |  Опис |
 |----------------|----------------|
 | [Делівері для WooCommerce](https://github.com/pekarskyi/ip-delivery-shipping) | Плагін інтеграції служби доставки "Делівері" з WooCommerce для інтернет-магазинів в Україні. |
 | [IP Woo Attributes Converter](https://github.com/pekarskyi/ip-woo-attribute-converter) | Плагін WordPress, який перетворює локальні (індивідуальні) атрибути на глобальні атрибути WooCommerce. |
@@ -53,20 +53,20 @@ WordPress розробник з 10+ років досвіду, створюю б
 
 ## :zap: Плагіни WordPress для розробників / адміністраторів:
 
-| Title |  Description |
+| Назва |  Опис |
 |----------------|----------------|
 | [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) | Плагін, який дозволяє швидко перемикатися між різними мовами без необхідності заходити в загальні налаштування WP та налаштування профілю. |
 | [IP Search Log](https://github.com/pekarskyi/ip-search-log) | Плагін WordPress для логування пошукових запитів користувачів. |
 
 ### :dart: Плагіни WordPress для безпеки / SEO:
 
-| Title |  Description |
+| Назва |  Опис |
 |----------------|----------------|
 | [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) | Плагін WordPress для моніторингу, логування та повідомлення про підозрілі GET-запити на вашому веб-сайті. Він діє як додатковий рівень безпеки, допомагаючи виявляти потенційні загрози на ранньому етапі. |
 
 ## :file_folder: Мої PHP скрипти:
 
-| Title |  Description |
+| Назва |  Опис |
 |----------------|----------------|
 | [IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer) | Цей скрипт замінює URL-адреси в базі даних WordPress. Він може бути завантажений до кореневого каталогу вашої WordPress інсталяції. |
 | [IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) | Інструмент для відлагодження WordPress, який відображає PHP помилки з debug.log у структурованому та зручному для користувача форматі. |
