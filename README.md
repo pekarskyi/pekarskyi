@@ -5,7 +5,7 @@
 [Український переклад](https://github.com/pekarskyi/pekarskyi/blob/master/README_UA.md) <img src="https://github.com/pekarskyi/assets/raw/master/flags/ua.svg" width="17">
 
 ## :wave: About Me
-10+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
+7+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
 
 ## :man_technologist: Skills:
 
