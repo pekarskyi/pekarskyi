@@ -68,5 +68,4 @@ Open to interesting projects and collaborations. Let's create something impressi
 
 | Title | Description |
 |----------------|---------|
-|[IP WordPress URL Replacer](https://github.com/pekarskyi/ip-wordpress-url-replacer)|This script replaces URLs in the WordPress database. It can be uploaded to the root directory of your WordPress installation.|
 |[IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) | A powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format |
