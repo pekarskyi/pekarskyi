@@ -36,12 +36,6 @@
 
 Open to interesting projects and collaborations. Let's create something impressive together!
 
- ## :gem: My main plugin WordPress:
-
- | Title |  Description |
-|----------------|----------------|
-| [IP Installer](https://github.com/pekarskyi/ip-installer) | Is a WordPress plugin that simplifies the installation and update of my plugins and scripts directly from GitHub repositories. |
-
 ## :shopping_cart: Plugins for WooCommerce:
 
 | Title |  Description |
@@ -56,16 +50,3 @@ Open to interesting projects and collaborations. Let's create something impressi
 | Title |  Description |
 |----------------|----------------|
 | [IP Language Quick Switcher for WordPress](https://github.com/pekarskyi/ip-language-quick-switcher-for-wp) | The plugin allows you to quickly switch between different languages without having to go into the general WP settings and profile settings. |
-| [IP Search Log](https://github.com/pekarskyi/ip-search-log) | WordPress Plugin for logging user search queries. |
-
-## :shield: Plugins WordPress for Security / SEO:
-
-| Title |  Description |
-|----------------|----------------|
-| [IP GET Logger](https://github.com/pekarskyi/ip-get-logger) | WordPress plugin for monitoring, logging, and alerting suspicious GET requests on your website. It acts as an additional security layer, helping you detect potential threats at an early stage. |
-
-## :file_folder: My Scripts PHP:
-
-| Title | Description |
-|----------------|---------|
-|[IP Debug Log Viewer](https://github.com/pekarskyi/ip-debug-log-viewer) | A powerful WordPress debugging tool that displays PHP errors from debug.log in a structured, user-friendly format |
