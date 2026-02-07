@@ -1,35 +1,33 @@
 ## Mykola Pekarskyi - WordPress Developer
 
-[Український переклад](https://github.com/pekarskyi/pekarskyi/blob/master/README_UA.md) <img src="https://github.com/pekarskyi/assets/raw/master/flags/ua.svg" width="17">
+## :wave: Про мене
+WordPress-розробник з понад 7-річним досвідом у створенні та масштабуванні комерційних вебпроєктів. Реалізую надійні технічні рішення для бізнесу - від ідеї до стабільної роботи продукту. Працюю самостійно або в команді. Локація - Україна.
 
-## :wave: About Me
-7+ years experienced WordPress developer creating business solutions. Work solo or in teams. Based in Ukraine.
+## :man_technologist: Технологічна експертиза:
 
-## :man_technologist: Skills:
+* Frontend: HTML5, CSS3, BEM
+* WordPress: розробка кастомних тем і плагінів, WooCommerce, Gutenberg, Elementor, Crocoblock, ACF, WPML, Polylang і ін. 
+* Інтеграції: платіжні шлюзи, логістичні сервіси, мультимовність, імпорт і синхронізація даних.
+* SEO та аналітика: технічне SEO, налаштування аналітики GTM, GA, GSC та інших сервісів Google.
 
-- Development: HTML5, CSS3, JavaScript, BEM methodology
-- WordPress: Custom themes/plugins, WooCommerce, Gutenberg blocks, Elementor, ACF
-- Integrations: Payment systems, delivery services, multilingual sites, data import/export
-- SEO: Technical optimization, analytics tools, semantic core, Google services setup
+## :thumbsup: Підхід до роботи:
 
-## :thumbsup: Principles:
+* Продуктивність і масштабованість як базові вимоги.
+* Безпечна архітектура та захист даних.
+* Зручність для кінцевого користувача.
+* Функціонал без перевантаження, лише те, що працює на результат.
 
-- Performance-focused development
-- Security-conscious implementation
-- User-centered design
-- Balanced functionality
+## :briefcase: Послуги:
 
-## :briefcase: Services:
+* Розробка та доопрацювання сайтів на WordPress.
+* Підтримка, оптимізація та аудит проєктів.
+* Консультації для бізнесу й розробників.
+* Підвищення безпеки та стабільності сайтів.
 
-- Custom WordPress development
-- Technical maintenance
-- Consultations and training
-- Website security and optimization
-
-##  :link: Contact:
-- [My site](https://inwebpress.com/contacts/)
-- [My Linkedin](https://www.linkedin.com/in/mykola-pekarskyi/)
+##  :link: Контакти:
+- [Мій сайт](https://inwebpress.com/contacts/)
+- [Мій Linkedin](https://www.linkedin.com/in/mykola-pekarskyi/)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZEeT6WrGupgza9KXpazyA)](https://www.youtube.com/@inwebpress/videos)
 
-Open to interesting projects and collaborations. Let's create something impressive together!
+Відкритий до цікавих проєктів та співпраці. Давайте створимо щось вражаюче разом!
