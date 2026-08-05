@@ -25,7 +25,6 @@ WordPress-розробник з понад 7-річним досвідом у с
 * Підвищення безпеки та стабільності сайтів.
 
 ##  :link: Контакти:
-- [Мій сайт](https://inwebpress.com/contacts/)
 - [Мій Linkedin](https://www.linkedin.com/in/mykola-pekarskyi/)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZEeT6WrGupgza9KXpazyA)](https://www.youtube.com/@inwebpress/videos)
